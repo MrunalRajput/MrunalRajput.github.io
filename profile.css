@@ -10,7 +10,7 @@ body{
 	margin: 1% ;
     width: 98%;
     height: 270px;
-    background-image: "./Seattle.jpg";
+    background-image: url("https://github.com/MrunalRajput/MrunalRajput.github.io/blob/master/Seattle.jpg?raw=true");
     background-size: 100% 100%;
     background-blend-mode: color-burn;
     -webkit-filter: grayscale(100%);
