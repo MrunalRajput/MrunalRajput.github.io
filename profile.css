@@ -4,7 +4,6 @@ body{
 	border-color: #909090;
 	margin: 25px 25px 25px 25px;
 }
-
 #MyName{
 	
 	margin-top: 1%;
@@ -18,7 +17,6 @@ body{
 	border-bottom: solid;
 	border-color: #909090;
 	color: #19194d;
-
 }
 .cover {
 	margin: 0.5% ;
@@ -26,12 +24,13 @@ body{
     width: auto;
     height: 270px;
     background-image: url("https://github.com/MrunalRajput/MrunalRajput.github.io/blob/master/Seattle.jpg?raw=true");
-    background-size: 100% 100%;
-    background-blend-mode: color-burn;
-    
+    background-size: 100% 100%;      
 }
 .info{
 
-	font-size: 20px;
+	font-size: 18px;
 	padding: unset;
+}
+#linkedInIcon{
+	width: 7%;
 }
