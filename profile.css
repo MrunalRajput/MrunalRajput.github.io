@@ -1,0 +1,17 @@
+body{
+	border-style: solid;
+	border-width: 3px;
+	border-color: #909090;
+	margin: 25px 25px 25px 25px;
+}
+
+
+.cover {
+	margin: 1% ;
+    width: 98%;
+    height: 270px;
+    background-image: "./Seattle.jpg";
+    background-size: 100% 100%;
+    background-blend-mode: color-burn;
+    -webkit-filter: grayscale(100%);
+}
