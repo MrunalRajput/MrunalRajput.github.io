@@ -1,36 +1,30 @@
-body{
+.bodyborder{
 	border-style: solid;
 	border-width: 3px;
 	border-color: #909090;
-	margin: 25px 25px 25px 25px;
+	
 }
 #MyName{
-	
-	margin-top: 1%;
-	margin-right: 1%;
-	float: right;
+
+	color: #19194d;
 	text-align: right;
 	font-size: 30px;
 	font-family: cambria;
+	border-bottom-style: double;
 }
 #nameTag{
-	border-bottom: solid;
-	border-color: #909090;
-	color: #19194d;
+	font-size: 95%;
+	font-family: cambria;
 }
 .cover {
-	margin: 0.5% ;
-	margin-left: 1%;
-    width: auto;
-    height: 270px;
-    background-image: url("https://github.com/MrunalRajput/MrunalRajput.github.io/blob/master/Seattle.jpg?raw=true");
-    background-size: 100% 100%;      
+	max-width: 100%;
+    height: auto;
+    background-image: url("images/Seattle.jpg");
+    background-size: 100% 100%;   
+    
+      
 }
-.info{
 
-	font-size: 18px;
-	padding: unset;
-}
-#linkedInIcon{
-	width: 7%;
+#icons{
+	width: 25px;
 }
