@@ -1,31 +1,47 @@
+p{
+	text-indent: 
+}
 .bodyborder{
-	border-style: solid;
-	border-width: 3px;
-	border-color: #909090;
-	padding: 1%;
+	border-style: inherit;
 	
+	border-color: #909090;
+	
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #536e7a;
 }
 #MyName{
-
-	color: #19194d;
+	color: #19194d;	
 	text-align: right;
-	font-size: 30px;
-	font-family: cambria;
+	font-size: 1.5em;	
 	border-bottom-style: double;
 }
 #nameTag{
-	font-size: 95%;
-	font-family: cambria;
+	
+	font-size: 0.8em;
+	
+	
 }
 .cover {
 	max-width: 100%;
     height: auto;
-    background-image: url("https://MrunalRajput.github.io/images/Seattle.jpg");
-    background-size: 100% 100%;   
-    
+    /*background-image: url("http://www.rvphotographics.com/images/gallery/BW2/Seattle-Morning.jpg");*/
+    background-image: url("https://images.unsplash.com/photo-1437809781432-a957377661ee?ixlib=rb-0.3.5&s=7e2122d30d2305220fa66d47b4d843d6&auto=format&fit=crop&w=1860&q=80");
+    background-size: cover; 
+    background-position: center;
       
 }
 
+.label{
+	border-top: solid;
+}
+
 #icons{
-	width: 25px;
+	width: 23px;
+}
+
+.UWFootball{
+	background-image: url("https://images.unsplash.com/photo-1516567727245-ad8c68f3ec93?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6af67e80d2f3ebab00b9747f62729fce&auto=format&fit=crop&w=687&q=80");
+	background-size: cover;
+	background-position: center;
 }
