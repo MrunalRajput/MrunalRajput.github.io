@@ -52,3 +52,10 @@ p{
 	background-size: cover;
 	background-position: center;
 }
+
+.input-group-addon img{
+	height: 24px;
+  
+}
+
+
