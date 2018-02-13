@@ -2,10 +2,8 @@ p{
 	text-indent: 
 }
 .bodyborder{
-	border-style: inherit;
-	
-	border-color: #909090;
-	
+	border-style: inherit;	
+	border-color: #909090;	
 	font-family: 'Roboto', sans-serif;
 	font-size: 120%;
 	color: #536e7a;
